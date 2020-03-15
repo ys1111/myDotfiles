@@ -14,7 +14,6 @@ fi
 
 
 # 2. mas-cli
-
 mas install 803453959 # Slack
 mas install 405399194 # Kindle
 mas install 880001334 # Reeder

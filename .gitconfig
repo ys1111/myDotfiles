@@ -1,0 +1,7 @@
+[fetch]
+	prune = true
+[user]
+	name = ys1111
+	email = y0suke111152@gmail.com
+[core]
+	excludesfile = /Users/yosukeochiai/.gitignore
