@@ -30,7 +30,7 @@
 	"devDependencies": {
 		"typescript": "^2.0.3",
 		"vscode": "*",
-		"mocha": "^2.3.3",
+		"mocha": "^10.1.0",
 		"@types/node": "^6.0.40",
 		"@types/mocha": "^2.2.32"
 	},
